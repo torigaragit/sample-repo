@@ -1,3 +1,2 @@
 # sample-repo
 sample
-revert
